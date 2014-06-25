@@ -1,30 +1,31 @@
 ---
 layout: page
-title: About
+permalink: /about/
+title: About Me
+tagline: About me
+tags: [about]
+modified: 6-26-2014
+comments: false
+image:
+  feature: texture-feature-02.jpg
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a software engineer on the WebSphere Compute Grid team. Our mission is to help enterprises manage their batch and online processing needs. Over the past few years, I have worked on several internal and external projects such as Lotus Greenhouse Labs, Smart Business, and most recently Java Batch JSR-352 which will be available in Java EE 7 release.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am very involved in new Open Source technologies. I use GitHub as my public playground to learn and help the community. 
 
-There are currently two themes built on Poole:
+---
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+###Projects
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* <a href="https://java.net/projects/jbatch" target="_blank">Java Batch JSR-352</a>
 
-## Setup
+* <a href="http://www-03.ibm.com/software/products/us/en/extended-deployment-compute-grid/" target="_blank">WebSphere Compute Grid</a>
 
-Some fun facts about the setup of this project include:
+* <a href="http://greenhouse.lotus.com/" target="_blank">Lotus Greenhouse Labs</a>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* <a href="http://www-935.ibm.com/services/us/en/it-services/smart-business-desktop-cloud.html" target="_blank">Smart Business</a>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* <a href="http://www.lockerfish.com" target="_blank">GitHub</a>
 
-Thanks for reading!
+* <a href="https://www.npmjs.org/package/downloader">NodeJS Downloader</a>

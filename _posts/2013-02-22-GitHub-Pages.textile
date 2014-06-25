@@ -1,0 +1,11 @@
+---
+layout: post
+title: GitHub Pages
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Feb 2013 - New York
+
+I am finally setting up GitHub Pages.
+

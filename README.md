@@ -1,36 +1,8 @@
 # Hendrix Tavarez
-
-This is my personal tech blog. 
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Rems, `font-size`, and scaling](#rems-font-size-and-scaling)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
-
-
-## Usage
-
-
-## Options
-
-
-## Development
-
-
-
-## Author
-
-**Hendrix Tavarez**
-- <https://github.com/lockerfish>
-- <https://twitter.com/htavarez>
-
+---
+This is my personal blog. 
+---
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+This theme is free and open source software, distributed under the [GNU General Public License](http://mmistakes.github.io/minimal-mistakes/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 

@@ -2,7 +2,7 @@
 layout: post
 title: "Simple script to build your LESS files"
 modified: 2014-06-27 02:56:10 -0400
-category: [bash-script]
+category: util
 tags: [bash, script, less]
 image:
   feature: texture-feature-03.jpg

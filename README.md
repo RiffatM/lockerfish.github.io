@@ -1,6 +1,6 @@
 # Hendrix Tavarez
 ---
-This is my personal blog. 
+This is my technical blog. 
 ---
 
 ## License
